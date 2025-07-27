@@ -1,5 +1,9 @@
 # test-alerts
 
+## h2
+
+###### h6
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
