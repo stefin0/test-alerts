@@ -28,6 +28,10 @@ This is a <sup>superscript</sup> text.
 
 This is an <ins>underline</ins> text.
 
+---
+
+A border above
+
 ## Quoting text
 
 Text that is not a quote
